@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: About!
+title: About!?
 seo:
   page_description:
   canonical_url:
