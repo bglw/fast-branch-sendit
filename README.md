@@ -1,4 +1,4 @@
-# Sendits
+# Senditss
 
 Sendit is a polished, marketing website template for NextJS. Browse through a [live demo](https://mysterious-oryx.cloudvent.net/). 
 
